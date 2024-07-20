@@ -1,6 +1,8 @@
+<!-- markdownlint-disable -->
 <p align="center">
     <img src="img/Dicio_du_DONI.svg" alt="DICIO du DONI Logo" >
 </p>
+<!-- markdownlint-enable -->
 
 <!-- ![Static Badge](https://img.shields.io/badge/you_like-blue)
 [//]: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/datastacktv) [![YouTube](https://img.shields.io/badge/-YouTube-FF0000)](http://youtube.com/c/datastacktv) [![Website](https://img.shields.io/badge/-Website-565CD8)](https://datastack.tv/) [![Jobs](https://img.shields.io/badge/-Jobs-ffdf4b)](https://datastackjobs.com/)
